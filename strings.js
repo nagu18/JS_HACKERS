@@ -2,8 +2,8 @@
 
 
 //non-mutable declaration
-const note = "welcome all of  u" // can declare single quotes
-const note2= 'let go'
+const note = "welcome all of  u";// can declare single quotes
+const note2= 'let go';
 console.log(note);
 console.log(note2);
 

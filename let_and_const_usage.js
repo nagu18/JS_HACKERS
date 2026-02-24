@@ -1,6 +1,6 @@
 //let is use for updating program tracking
 let mark; // we can declare without value
-marks = 10
+marks = 10;
 marks = 20; // updated or modify
 console.log(marks);
 
